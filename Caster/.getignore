@@ -1,0 +1,6 @@
+.getignore
+venv
+.idea
+settings.py
+db.sqlite3
+Caster/__pycache__/
